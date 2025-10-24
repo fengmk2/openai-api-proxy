@@ -22,7 +22,7 @@
     "@azure/identity": "^4.4.1",
     "@google/generative-ai": "^0.20.0",
     "cohere-ai": "^7.14.0",
-    "hono": "^4.6.3",
+    "hono": "^4.10.3",
     "jose": "^5.9.3",
     "lodash-es": "^4.17.21",
     "mime": "^4.0.7",
